@@ -1,0 +1,2527 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <link rel="stylesheet" href="/includes/css/sitebar.css?v=1681317651">
+    <link rel="stylesheet" href="/includes/css/master.css?v=1695773424">
+    <link rel="stylesheet" href="/includes/css/icons/master.css?v=1643523585">
+    <link rel="stylesheet" href="/includes/css/light.css?v=1689954148">
+    <link rel="stylesheet" href="/includes/css/icons/light.css?v=1643523585">
+    <link rel="stylesheet" href="/resources/css/light.css?v=1669927763">
+        <link rel="stylesheet" href="/includes/css/mobile.css?v=1695784554">
+    <link rel="stylesheet" href="/resources/css/mobile/light.css?v=1654988146">
+        <link rel="icon" href="/resources/images/master/icon.png">
+    <link rel="alternate" type="application/rss+xml" title="The Spriters Resource RSS Updates Feed" href="/rss.php">
+    <link rel="alternate" type="application/rss+xml" title="The Spriters Resource RSS Uploads and Edits Feed" href="/uploads.php">
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+    <meta name="description" content="PC / Computer - Heroes of Might and Magic 3 - The #1 source for video game sprites on the internet!">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+        <meta name="theme-color" content="#c4686d">
+    <title>PC / Computer - Heroes of Might and Magic 3 - The Spriters Resource</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.0/jquery.min.js"></script>
+    <script>var theme = 'light';</script>
+    <script src="/includes/js/scripts.js?v=1695774038"></script>
+        <script src="/includes/js/mobile.js?v=1658606266"></script>
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-QHE6R14E7M"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-QHE6R14E7M');
+    </script>
+    <script data-cfasync="false">window.nitroAds=window.nitroAds||{createAd:function(){return new Promise(e=>{window.nitroAds.queue.push(["createAd",arguments,e])})},addUserToken:function(){window.nitroAds.queue.push(["addUserToken",arguments])},queue:[]};</script>
+<script data-cfasync="false" async src="https://s.nitropay.com/ads-69.js"></script>  </head>
+
+  <body>
+    <script>
+window['nitroAds'].createAd('nitro-outstream', {
+  "refreshLimit": 0,
+  "refreshTime": 30,
+  "format": "floating",
+  "reduceMobileSize": true,
+  "report": {
+    "enabled": true,
+    "icon": true,
+    "wording": "Report Ad",
+    "position": "top-left"
+  }
+});
+</script>    <div id="wrapper">
+      <div id="announcement" style="color: #ffffff; background-color: #008800; font-weight: bold;"><a href="/closeannouncement/wSXri5mE/?return=%2Fpc_computer%2Fheroes3%2F" id="close-announcement">[x]</a><a href="http://doyouknowgaming.com" style="color: white;">The gate to the trivia dungeon has opened! Order your copy of Do You Know Gaming and help make the game a reality today!</a></div>
+<div id="sitebar" class="nomobile">
+  <div id="vglinks">
+    <a href="https://www.vg-resource.com" style="border-left: none; border-right-color: #3f607b;"><img src="https://www.vg-resource.com/images/vgr_logo-small.png" alt="The VG Resource"></a>
+    <a href="https://wiki.vg-resource.com" style="border-left-color: #89adcb; border-right-color: #842a2a;">Wiki</a>
+    <a href="https://www.spriters-resource.com" class="tsr">Sprites</a>
+    <a href="https://www.models-resource.com" class="tmr">Models</a>
+    <a href="https://www.textures-resource.com" class="ttr">Textures</a>
+    <a href="https://www.sounds-resource.com" class="tsor">Sounds</a>
+        <a href="https://www.vg-resource.com/login/?return=www.spriters-resource.com/pc_computer/heroes3/" style="text-shadow: 1px 1px 0px #40444d; background-color: #b6bfd1; border-left-color: #cdd4e0; border-right-color: #3c5d79;">Login</a>
+      </div>
+  <div id="sitelinks">
+    <a href="https://www.vgfacts.com" style="border-left-color: #7b9db9; border-right-color: #3f607b;">VGFacts</a>
+    <a href="http://www.didyouknowgaming.com" style="border-left-color: #89adcb; border-right: none;">DidYouKnowGaming?</a>
+  </div>
+</div>
+      <div id="header">
+        <div class="wrap">
+          <div id="mobile-menu-button-nav">&#9776;</div>
+          <a href="/" id="header-logo"><img src="/resources/images/light/header/logo.png" alt="The Spriters Resource"></a>
+          <div id="userbox" class="nomobile">
+    <div style="width: calc(100% - 75px); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; float: left;">Hello, Guest! (<a href="https://www.vg-resource.com/login/?return=www.spriters-resource.com/pc_computer/heroes3/" style="color: #ffffff;">Login</a>|<a href="https://www.vg-resource.com/member.php?action=register" style="color: #ffffff;">Register</a>)</div>
+  <div style="width: 74px; height: 74px; float: right; clear: right; margin-top: -3px;"><img src="/resources/images/light/display/default.png" alt="Not Logged In" style="width: 74px; height: 74px;"></div>
+  <div style="width: 195px; float: left; clear: left;">Register today to join in with discussions on the forum, post comments on the site, and upload your own sheets!</div>
+</div>
+          <div id="search" class="nomobile">
+            <form id="simple_searchform" method="get" action="/search/" style="display: inline-block;">
+              <input type="text" name="q" class="search_text" size="21" placeholder="Search Sheets and Games" value=""><input type="submit" value="Search" class="search_button" style="margin-left: -2px;">
+            </form>
+          </div>
+          <div id="mobile-menu-button-nav_top_mobile">&#9776;</div>
+        </div>
+      </div>
+      <div id="nav-top" class="nomobile">
+        <div class="wrap">
+          <div style="float: left; padding-left: 5px;">
+            <a href="/">Home</a> -
+            <a href="/search/">Search</a> -
+            <a href="https://www.vg-resource.com">Forums</a> -
+            <a href="/page/about/">About</a> -
+            <a href="/stats/">Stats</a> -
+            <a href="/comments/">Comments</a> -
+            <a href="/contact/">Contact</a>
+          </div>
+          <div id="nav-buttons">
+                        <a href="/setmode/text/?return=%2Fpc_computer%2Fheroes3%2F"><img src="/images/light/buttons/mode/icon.png" alt="Icon Mode"></a>
+            <a href="/setnsfw/show/?return=%2Fpc_computer%2Fheroes3%2F"><img src="/images/light/buttons/nsfw/hide.png" alt="NSFW: Hide"></a>
+            <a href="/random/" title="Random Sheet"><img src="/images/light/buttons/random.png" alt="Random Sheet!"></a>
+          </div>
+        </div>
+      </div>
+      <div class="wrap">
+      <div id="body">
+        <div id="nav_top_mobile" class="mobile-menu">
+          <div id="mobile_site_links" style="font-size: 0px;">
+            <a href="https://www.spriters-resource.com" class="tsr">Sprites</a>
+            <a href="https://www.models-resource.com" class="tmr">Models</a>
+            <a href="https://www.textures-resource.com" class="ttr">Textures</a>
+            <a href="https://www.sounds-resource.com" class="tsor">Sounds</a>
+          </div>
+          <div id="mobile_search">
+            <form id="mobile_simple_searchform" method="get" action="/search/" style="display: inline-block;">
+              <input type="text" name="q" class="search_text" size="21" placeholder="Search Sheets and Games" value=""><input type="submit" value="Search" class="search_button" style="margin-left: -2px;">
+            </form>
+          </div>
+          <a href="/">Home</a>
+          <a href="/search/">Search</a>
+            <a href="https://www.vg-resource.com">Forums</a>
+          <a href="https://wiki.vg-resource.com">Wiki</a>
+          <a href="/page/about/">About</a>
+          <a href="/page/faq/">FAQ</a>
+          <a href="/stats/">Stats</a>
+          <a href="/comments/">Comments</a>
+          <a href="/contact/">Contact</a>
+          <a href="/page/agreement/">User Agreement</a>
+          <a href="/page/privacy">Privacy Policy</a>
+          <div class="nav-header" style="cursor: default;">Social Links</div>
+          <a href="https://discord.gg/dykg" target="_blank">Discord</a>
+          <a href="https://twitter.com/thevgresource" target="_blank">Twitter</a>
+          <a href="https://www.facebook.com/TheVGResource" target="_blank">Facebook</a>
+          <div class="nav-header" style="cursor: default;">User Links</div>
+                    <a href="https://www.vg-resource.com/login/?return=www.spriters-resource.com/pc_computer/heroes3/">Login</a>
+                    <div id="mobile-nav-buttons">
+            <a href="/setmode/text/?return=%2Fpc_computer%2Fheroes3%2F"><img src="/images/light/buttons/mode/icon.png" alt="Icon Mode"></a>
+            <a href="/setnsfw/show/?return=%2Fpc_computer%2Fheroes3%2F"><img src="/images/light/buttons/nsfw/hide.png" alt="NSFW: Hide"></a>
+            <a href="/random/" title="Random Sheet"><img src="/images/light/buttons/random.png" alt="Random Sheet!"></a>
+          </div>
+        </div>
+                <div id="nav" class="mobile-menu">
+          <div class="nav-header" id="nav-consoles_header">Consoles<img class="header-arrow" id="leftnav-consoles-arrow" src="/images/light/buttons/nav-open.png" alt=""></div>
+          <div id="leftnav-consoles">
+          <a href="/3ds/">3DS</a>
+<a href="/arcade/">Arcade</a>
+<a href="/browser_games/">Browser Games</a>
+<a href="/custom_edited/">Custom / Edited</a>
+<a href="/ds_dsi/">DS / DSi</a>
+<a href="/game_boy_gbc/">Game Boy / GBC</a>
+<a href="/game_boy_advance/">Game Boy Advance</a>
+<a href="/gamecube/">GameCube</a>
+<a href="/lcd_handhelds/">LCD Handhelds</a>
+<a href="/mobile/">Mobile</a>
+<a href="/neo_geo_ngcd/">Neo Geo / NGCD</a>
+<a href="/nes/">NES</a>
+<a href="/nintendo_64/">Nintendo 64</a>
+<a href="/nintendo_switch/">Nintendo Switch</a>
+<a href="/pc_computer/" class="active">PC / Computer</a>
+<a href="/playstation/">PlayStation</a>
+<a href="/playstation_2/">PlayStation 2</a>
+<a href="/playstation_3/">PlayStation 3</a>
+<a href="/psp/">PSP</a>
+<a href="/sega_cd/">Sega CD</a>
+<a href="/genesis_32x_scd/">Sega Genesis / 32X</a>
+<a href="/snes/">SNES</a>
+<a href="/wii/">Wii</a>
+<a href="/wii_u/">Wii U</a>
+<a href="/xbox_360/">Xbox 360</a>
+<a href="/other_systems/">Other Systems<img id="toggle_other" src="/images/light/buttons/nav-closed.png" alt=""></a>
+<div id="other" style="display: none;">
+<a href="/3do/">3DO</a>
+<a href="/acorn_archimedes/">Acorn Archimedes</a>
+<a href="/acorn_electron/">Acorn Electron</a>
+<a href="/adventure_vision/">Adventure Vision</a>
+<a href="/amiga_amiga_cd32/">Amiga / Amiga CD32</a>
+<a href="/amstrad_cpc/">Amstrad CPC</a>
+<a href="/apple_ii/">Apple II</a>
+<a href="/atari/">Atari</a>
+<a href="/atari_st/">Atari ST</a>
+<a href="/bally_astrocade/">Bally Astrocade</a>
+<a href="/bbc_micro/">BBC Micro</a>
+<a href="/cd_i/">CD-i</a>
+<a href="/colecovision/">ColecoVision</a>
+<a href="/commodore_16/">Commodore 16</a>
+<a href="/commodore_64/">Commodore 64</a>
+<a href="/comx_35/">COMX-35</a>
+<a href="/cybiko/">Cybiko</a>
+<a href="/dreamcast/">Dreamcast</a>
+<a href="/elektronika_calculators/">Elektronika Calculators</a>
+<a href="/emerson_arcadia_2001/">Emerson Arcadia 2001</a>
+<a href="/enterprise/">Enterprise</a>
+<a href="/fm_towns/">FM Towns</a>
+<a href="/fm_7/">FM-7</a>
+<a href="/game_gear/">Game Gear</a>
+<a href="/game_master/">Game Master</a>
+<a href="/game_com/">Game.com</a>
+<a href="/hyperscan/">HyperScan</a>
+<a href="/intellivision/">Intellivision</a>
+<a href="/jaguar/">Jaguar</a>
+<a href="/leapfrog/">LeapFrog</a>
+<a href="/lynx/">Lynx</a>
+<a href="/master_system/">Master System</a>
+<a href="/mega_duck/">Mega Duck</a>
+<a href="/msx_msx2/">MSX / MSX2</a>
+<a href="/n_gage/">N-Gage</a>
+<a href="/nec_pc_6001/">NEC PC-6001</a>
+<a href="/nec_pc_8801/">NEC PC-8801</a>
+<a href="/nec_pc_9801/">NEC PC-9801</a>
+<a href="/neo_geo_pocket/">Neo Geo Pocket</a>
+<a href="/nokia_series_40_60/">Nokia Series 40/60</a>
+<a href="/odyssey/">Odyssey²</a>
+<a href="/palmos/">PalmOS</a>
+<a href="/pico/">Pico</a>
+<a href="/playstation_4/">PlayStation 4</a>
+<a href="/playstation_5/">PlayStation 5</a>
+<a href="/playstation_vita/">PlayStation Vita</a>
+<a href="/plug_play/">Plug &amp; Play</a>
+<a href="/pokemon_mini/">Pokémon Mini</a>
+<a href="/rca_studio_ii/">RCA Studio II</a>
+<a href="/saturn/">Saturn</a>
+<a href="/sg_1000/">SG-1000</a>
+<a href="/sharp_mz/">Sharp MZ</a>
+<a href="/sharp_x1/">Sharp X1</a>
+<a href="/sharp_x68000/">Sharp X68000</a>
+<a href="/super_a_can/">Super A'Can</a>
+<a href="/super_cassette_vision/">Super Cassette Vision</a>
+<a href="/supervision/">Supervision</a>
+<a href="/tapwave_zodiac/">Tapwave Zodiac</a>
+<a href="/thumby/">Thumby</a>
+<a href="/ti_83/">TI-83</a>
+<a href="/ti_99/">TI-99</a>
+<a href="/turbografx_16/">TurboGrafx-16</a>
+<a href="/v_smile/">V.Smile</a>
+<a href="/vectrex/">Vectrex</a>
+<a href="/virtual_boy/">Virtual Boy</a>
+<a href="/visicom_com_100/">Visicom COM-100</a>
+<a href="/wonderswan_wsc/">WonderSwan / WSC</a>
+<a href="/xbox/">Xbox</a>
+<a href="/zeebo/">Zeebo</a>
+<a href="/zx_spectrum/">ZX Spectrum</a>
+</div>
+          </div>
+                    <div class="nav-header" id="nav-genres_header">Genres<img class="header-arrow" id="leftnav-genres-arrow" src="/images/light/buttons/nav-closed.png" alt=""></div>
+          <div id="leftnav-genres" style="display: none;">
+          <a href="/genre/action/">Action</a>
+<a href="/genre/action_rpg/">Action RPG</a>
+<a href="/genre/action_adventure/">Action-Adventure</a>
+<a href="/genre/action_platformer/">Action-Platformer</a>
+<a href="/genre/adventure/">Adventure</a>
+<a href="/genre/beat_em_up/">Beat 'em Up</a>
+<a href="/genre/board_card_game/">Board / Card Game</a>
+<a href="/genre/customs/">Customs</a>
+<a href="/genre/educational/">Educational</a>
+<a href="/genre/fighting/">Fighting</a>
+<a href="/genre/horror/">Horror</a>
+<a href="/genre/music/">Music</a>
+<a href="/genre/platformer/">Platformer</a>
+<a href="/genre/puzzle/">Puzzle</a>
+<a href="/genre/racing/">Racing</a>
+<a href="/genre/shoot_em_up/">Shoot 'em Up</a>
+<a href="/genre/shooter/">Shooter</a>
+<a href="/genre/simulation/">Simulation</a>
+<a href="/genre/sports/">Sports</a>
+<a href="/genre/strategy/">Strategy</a>
+<a href="/genre/turn_based_rpg/">Turn-Based RPG</a>
+<a href="/genre/visual_novel/">Visual Novel</a>
+<a href="/genre/other/">Other</a>
+          </div>
+          <div id="nav-ad">
+<div class="nav-header ad-header">Advertisement</div>
+<div id="sidebar-ad">
+<div class="skyscraper">
+<div id="nitro-sidebar"></div>
+<script>
+window['nitroAds'].createAd('nitro-sidebar', {
+  "refreshLimit": 0,
+  "refreshTime": 30,
+  "renderVisibleOnly": false,
+  "refreshVisibleOnly": true,
+  "delayLoading": true,
+  "report": {
+    "enabled": true,
+    "icon": true,
+    "wording": "Report Ad",
+    "position": "top-right"
+  }
+});
+</script></div>
+</div>
+</div>
+        </div><div id="content">
+                    <div id="headerad">
+            <div class="banner">
+<div id="nitro-banner-top"></div>
+<script>
+window['nitroAds'].createAd('nitro-banner-top', {
+  "refreshLimit": 0,
+  "refreshTime": 30,
+  "renderVisibleOnly": false,
+  "refreshVisibleOnly": true,
+  "delayLoading": true,
+  "report": {
+    "enabled": true,
+    "icon": true,
+    "wording": "Report Ad",
+    "position": "top-right"
+  }
+});
+</script>            </div>
+          </div>
+<div id="letters">
+  <a href="/pc_computer/0.html">#</a> - <a href="/pc_computer/A.html">A</a> - <a href="/pc_computer/B.html">B</a> - <a href="/pc_computer/C.html">C</a> - <a href="/pc_computer/D.html">D</a> - <a href="/pc_computer/E.html">E</a> - <a href="/pc_computer/F.html">F</a> - <a href="/pc_computer/G.html">G</a> - <a href="/pc_computer/H.html" class="active">H</a> - <a href="/pc_computer/I.html">I</a> - <a href="/pc_computer/J.html">J</a> - <a href="/pc_computer/K.html">K</a> - <a href="/pc_computer/L.html">L</a> - <a href="/pc_computer/M.html">M</a> - <a href="/pc_computer/N.html">N</a> - <a href="/pc_computer/O.html">O</a> - <a href="/pc_computer/P.html">P</a> - <a href="/pc_computer/Q.html">Q</a> - <a href="/pc_computer/R.html">R</a> - <a href="/pc_computer/S.html">S</a> - <a href="/pc_computer/T.html">T</a> - <a href="/pc_computer/U.html">U</a> - <a href="/pc_computer/V.html">V</a> - <a href="/pc_computer/W.html">W</a> - <a href="/pc_computer/X.html">X</a> - <a href="/pc_computer/Y.html">Y</a> - <a href="/pc_computer/Z.html">Z</a></div>
+<div id="game-info-wrapper" style="float: none; clear: both; width: calc(100% - 20px); min-height: 326px; margin: 10px 10px 0px 10px; overflow: hidden;">
+  <form id="report-game-3349-wrapper" method="post" action="/process/report/">
+  <table class="display altrow" style="width: calc(100% - 300px); margin-left: 0px; margin-bottom: 10px;">
+    <tr class="rowheader">
+      <th colspan="2" class="noborder">
+        <div style="width: calc(100% - 50px); float: left; clear: left; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; padding-bottom: 1px;" title="Heroes of Might and Magic 3">Heroes of Might and Magic 3</div>
+        <div style="float: right; text-align: right;"><a href="/uploads.php?gid=3349" target="_blank"><img src="/images/light/social/rss.png" alt="Uploads to this Game RSS Feed" style="width: 15px; height: 14px; vertical-align: top;"></a>        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>Category</td>
+      <td style="text-align: right;"><a href="/pc_computer/">PC / Computer</a></td>
+    </tr>
+    <tr>
+      <td>Sheets</td>
+      <td style="text-align: right;">190</td>
+    </tr>
+    <tr>
+      <td>Hits</td>
+      <td style="text-align: right;">835,706</td>
+    </tr>
+    <tr>
+      <td>Comments</td>
+      <td style="text-align: right;">1</td>
+    </tr>
+    <tr id="report-game-3349-form" style="display: none;">
+      <td class="rowheader" colspan="2" style="text-align: center; padding: 5px;">
+        <textarea name="report" id="report-game-3349-text" class="formElement" style="width: calc(100% - 20px); height: 50px;" placeholder="Use this form to report this game to the staff for violation of site rules or inaccuracy. Reports are not for contacting the staff or requesting new content."></textarea><br>
+        <input type="hidden" name="type" id="report-game-3349-type" value="game">
+        <input type="hidden" name="id" id="report-game-3349-id" value="3349">
+        <input type="submit" value="Submit">
+      </td>
+    </tr>
+  </table>
+  </form>
+  <div id="game-icon-container" style="width: calc(100% - 300px); margin-top: -10px; text-align: center;">
+  <div class="gameiconcontainer">
+    <div class="gameiconheader">
+      <span class="gameiconheadertext">Heroes of Might and Magic 3</span>
+    </div>
+    <div class="gameiconbody">
+      <img src="/resources/game_icons/4/3349.png?updated=1460947425" alt="Heroes of Might and Magic 3" loading="lazy">
+    </div>
+  </div>
+  </div>
+  <div class="square" style="top: 160px;">
+<div id="nitro-content"></div>
+<script>
+window['nitroAds'].createAd('nitro-content', {
+  "refreshLimit": 0,
+  "refreshTime": 30,
+  "renderVisibleOnly": false,
+  "refreshVisibleOnly": true,
+  "sizes": [
+    [
+      "300",
+      "250"
+    ]
+  ],
+  "report": {
+    "enabled": true,
+    "icon": true,
+    "wording": "Report Ad",
+    "position": "top-right"
+  }
+});
+</script>  </div>
+</div>
+<div id="icon-display">
+<div class="section"><div class="sect-name" title="Heroes">Heroes</div><span class="sect-collapse"><img src="/images/light/buttons/nav-open.png" alt=""></span>
+<span class="sect-count nomobile">[5]</span>
+</div>
+<div class="updatesheeticons">
+<a href="/pc_computer/heroes3/sheet/41242/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Boat</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/38/41242.png?updated=1460950355" alt="Boat" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/41243/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Flags</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/38/41243.png?updated=1460950355" alt="Flags" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/41246/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Heroes Adventure</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/38/41246.png?updated=1460950355" alt="Heroes Adventure" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/41247/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Heroes Battle</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/38/41247.png?updated=1460950355" alt="Heroes Battle" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/41253/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Heroes Portraits</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/38/41253.png?updated=1460950356" alt="Heroes Portraits" loading="lazy">
+    </div>
+  </div>
+</a>
+</div>
+<div class="section"><div class="sect-name" title="Neutral Units">Neutral Units</div><span class="sect-collapse"><img src="/images/light/buttons/nav-open.png" alt=""></span>
+<span class="sect-count nomobile">[15]</span>
+</div>
+<div class="updatesheeticons">
+<a href="/pc_computer/heroes3/sheet/45012/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Azure Dragon</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/42/45012.png?updated=1460950611" alt="Azure Dragon" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/45020/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Boar</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/42/45020.png?updated=1460950612" alt="Boar" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/45013/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Crystal Dragon</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/42/45013.png?updated=1460950611" alt="Crystal Dragon" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/45011/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Diamond Golem</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/42/45011.png?updated=1460950611" alt="Diamond Golem" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/45016/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Enchanter</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/42/45016.png?updated=1460950611" alt="Enchanter" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/45014/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Faerie Dragon</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/42/45014.png?updated=1460950611" alt="Faerie Dragon" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/45010/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Gold Golem</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/42/45010.png?updated=1460950611" alt="Gold Golem" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/45018/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Halfling</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/42/45018.png?updated=1460950612" alt="Halfling" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/45021/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Mummy</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/42/45021.png?updated=1460950612" alt="Mummy" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/45022/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Nomad</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/42/45022.png?updated=1460950612" alt="Nomad" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/45019/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Peasant</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/42/45019.png?updated=1460950612" alt="Peasant" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/45023/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Rogue</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/42/45023.png?updated=1460950612" alt="Rogue" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/45015/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Rust Dragon</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/42/45015.png?updated=1460950611" alt="Rust Dragon" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/45017/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Sharpshooter</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/42/45017.png?updated=1460950612" alt="Sharpshooter" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/45024/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Troll</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/42/45024.png?updated=1460950612" alt="Troll" loading="lazy">
+    </div>
+  </div>
+</a>
+</div>
+<div class="section"><div class="sect-name" title="Castle Units">Castle Units</div><span class="sect-collapse"><img src="/images/light/buttons/nav-open.png" alt=""></span>
+<span class="sect-count nomobile">[14]</span>
+</div>
+<div class="updatesheeticons">
+<a href="/pc_computer/heroes3/sheet/42160/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Angel</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/39/42160.png?updated=1460950416" alt="Angel" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/42167/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Archangel</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/39/42167.png?updated=1460950417" alt="Archangel" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/42155/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Archer</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/39/42155.png?updated=1460950415" alt="Archer" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/42159/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Cavalier</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/39/42159.png?updated=1460950416" alt="Cavalier" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/42166/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Champion</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/39/42166.png?updated=1460950416" alt="Champion" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/42164/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Crusader</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/39/42164.png?updated=1460950416" alt="Crusader" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/42156/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Griffin</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/39/42156.png?updated=1460950415" alt="Griffin" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/42161/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Halberdier</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/39/42161.png?updated=1460950416" alt="Halberdier" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/42162/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Marksman</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/39/42162.png?updated=1460950416" alt="Marksman" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/42158/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Monk</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/39/42158.png?updated=1460950416" alt="Monk" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/42154/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Pikeman</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/39/42154.png?updated=1460950415" alt="Pikeman" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/42163/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Royal Griffin</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/39/42163.png?updated=1460950416" alt="Royal Griffin" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/42157/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Swordsman</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/39/42157.png?updated=1460950416" alt="Swordsman" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/42165/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Zealot</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/39/42165.png?updated=1460950416" alt="Zealot" loading="lazy">
+    </div>
+  </div>
+</a>
+</div>
+<div class="section"><div class="sect-name" title="Conflux Units">Conflux Units</div><span class="sect-collapse"><img src="/images/light/buttons/nav-open.png" alt=""></span>
+<span class="sect-count nomobile">[14]</span>
+</div>
+<div class="updatesheeticons">
+<a href="/pc_computer/heroes3/sheet/44996/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Air Elemental</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/42/44996.png?updated=1460950610" alt="Air Elemental" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/44999/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Earth Elemental</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/42/44999.png?updated=1460950610" alt="Earth Elemental" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/45005/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Energy Elemental</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/42/45005.png?updated=1460950611" alt="Energy Elemental" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/44998/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Fire Elemental</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/42/44998.png?updated=1460950610" alt="Fire Elemental" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/45001/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Firebird</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/42/45001.png?updated=1460950610" alt="Firebird" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/45004/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Ice Elemental</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/42/45004.png?updated=1460950610" alt="Ice Elemental" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/45007/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Magic Elemental</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/42/45007.png?updated=1460950611" alt="Magic Elemental" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/45006/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Magma Elemental</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/42/45006.png?updated=1460950611" alt="Magma Elemental" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/45008/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Phoenix</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/42/45008.png?updated=1460950611" alt="Phoenix" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/44995/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Pixie</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/42/44995.png?updated=1460950610" alt="Pixie" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/45000/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Psychic Elemental</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/42/45000.png?updated=1460950610" alt="Psychic Elemental" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/45002/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Sprite</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/42/45002.png?updated=1460950610" alt="Sprite" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/45003/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Storm Elemental</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/42/45003.png?updated=1460950610" alt="Storm Elemental" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/44997/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Water Elemental</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/42/44997.png?updated=1460950610" alt="Water Elemental" loading="lazy">
+    </div>
+  </div>
+</a>
+</div>
+<div class="section"><div class="sect-name" title="Dungeon Units">Dungeon Units</div><span class="sect-collapse"><img src="/images/light/buttons/nav-open.png" alt=""></span>
+<span class="sect-count nomobile">[14]</span>
+</div>
+<div class="updatesheeticons">
+<a href="/pc_computer/heroes3/sheet/43572/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Beholder</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/41/43572.png?updated=1460950516" alt="Beholder" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/43583/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Black Dragon</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/41/43583.png?updated=1460950517" alt="Black Dragon" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/43579/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Evil Eye</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/41/43579.png?updated=1460950516" alt="Evil Eye" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/43571/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Harpy</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/41/43571.png?updated=1460950516" alt="Harpy" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/43578/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Harpy Hag</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/41/43578.png?updated=1460950516" alt="Harpy Hag" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/43577/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Infernal Troglodyte</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/41/43577.png?updated=1460950516" alt="Infernal Troglodyte" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/43575/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Manticore</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/41/43575.png?updated=1460950516" alt="Manticore" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/43573/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Medusa</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/41/43573.png?updated=1460950516" alt="Medusa" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/43580/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Medusa Queen</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/41/43580.png?updated=1460950516" alt="Medusa Queen" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/43574/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Minotaur</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/41/43574.png?updated=1460950516" alt="Minotaur" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/43581/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Minotaur King</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/41/43581.png?updated=1460950516" alt="Minotaur King" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/43576/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Red Dragon</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/41/43576.png?updated=1460950516" alt="Red Dragon" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/43582/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Scorpicore</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/41/43582.png?updated=1460950517" alt="Scorpicore" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/43570/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Troglodyte</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/41/43570.png?updated=1460950515" alt="Troglodyte" loading="lazy">
+    </div>
+  </div>
+</a>
+</div>
+<div class="section"><div class="sect-name" title="Fortress Units">Fortress Units</div><span class="sect-collapse"><img src="/images/light/buttons/nav-open.png" alt=""></span>
+<span class="sect-count nomobile">[14]</span>
+</div>
+<div class="updatesheeticons">
+<a href="/pc_computer/heroes3/sheet/44983/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Basilisk</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/42/44983.png?updated=1460950609" alt="Basilisk" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/44993/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Chaos Hydra</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/42/44993.png?updated=1460950610" alt="Chaos Hydra" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/44989/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Dragon Fly</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/42/44989.png?updated=1460950609" alt="Dragon Fly" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/44980/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Gnoll</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/42/44980.png?updated=1460950608" alt="Gnoll" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/44987/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Gnoll Marauder</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/42/44987.png?updated=1460950609" alt="Gnoll Marauder" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/44984/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Gorgon</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/42/44984.png?updated=1460950609" alt="Gorgon" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/44990/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Greater Basilisk</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/42/44990.png?updated=1460950609" alt="Greater Basilisk" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/44986/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Hydra</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/42/44986.png?updated=1460950609" alt="Hydra" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/44988/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Lizard Warrior</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/42/44988.png?updated=1460950609" alt="Lizard Warrior" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/44981/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Lizardman</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/42/44981.png?updated=1460950609" alt="Lizardman" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/44991/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Mighty Gorgon</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/42/44991.png?updated=1460950609" alt="Mighty Gorgon" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/44982/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Serpent Fly</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/42/44982.png?updated=1460950609" alt="Serpent Fly" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/44985/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Wyvern</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/42/44985.png?updated=1460950609" alt="Wyvern" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/44992/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Wyvern Monarch</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/42/44992.png?updated=1460950609" alt="Wyvern Monarch" loading="lazy">
+    </div>
+  </div>
+</a>
+</div>
+<div class="section"><div class="sect-name" title="Inferno Units">Inferno Units</div><span class="sect-collapse"><img src="/images/light/buttons/nav-open.png" alt=""></span>
+<span class="sect-count nomobile">[14]</span>
+</div>
+<div class="updatesheeticons">
+<a href="/pc_computer/heroes3/sheet/43068/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Archdevil</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/40/43068.png?updated=1460950479" alt="Archdevil" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/43064/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Cerberus</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/40/43064.png?updated=1460950479" alt="Cerberus" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/43058/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Demon</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/40/43058.png?updated=1460950478" alt="Demon" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/43061/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Devil</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/40/43061.png?updated=1460950479" alt="Devil" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/43067/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Efreet Sultan</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/40/43067.png?updated=1460950479" alt="Efreet Sultan" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/43060/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Efreeti</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/40/43060.png?updated=1460950479" alt="Efreeti" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/43062/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Familiar</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/40/43062.png?updated=1460950479" alt="Familiar" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/43056/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Gog</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/40/43056.png?updated=1460950478" alt="Gog" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/43057/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Hell Hound</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/40/43057.png?updated=1460950478" alt="Hell Hound" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/43065/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Horned Demon</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/40/43065.png?updated=1460950479" alt="Horned Demon" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/43055/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Imp</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/40/43055.png?updated=1460950478" alt="Imp" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/43063/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Magog</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/40/43063.png?updated=1460950479" alt="Magog" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/43059/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Pit Fiend</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/40/43059.png?updated=1460950478" alt="Pit Fiend" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/43066/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Pit Lord</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/40/43066.png?updated=1460950479" alt="Pit Lord" loading="lazy">
+    </div>
+  </div>
+</a>
+</div>
+<div class="section"><div class="sect-name" title="Necropolis Units">Necropolis Units</div><span class="sect-collapse"><img src="/images/light/buttons/nav-open.png" alt=""></span>
+<span class="sect-count nomobile">[14]</span>
+</div>
+<div class="updatesheeticons">
+<a href="/pc_computer/heroes3/sheet/44970/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Black Knight</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/42/44970.png?updated=1460950608" alt="Black Knight" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/44971/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Bone Dragon</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/42/44971.png?updated=1460950608" alt="Bone Dragon" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/44977/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Dread Knight</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/42/44977.png?updated=1460950608" alt="Dread Knight" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/44978/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Ghost Dragon</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/42/44978.png?updated=1460950608" alt="Ghost Dragon" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/44969/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Lich</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/42/44969.png?updated=1460950607" alt="Lich" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/44976/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Power Lich</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/42/44976.png?updated=1460950608" alt="Power Lich" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/44965/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Skeleton</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/42/44965.png?updated=1460950607" alt="Skeleton" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/44972/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Skeleton Warrior</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/42/44972.png?updated=1460950608" alt="Skeleton Warrior" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/44968/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Vampire</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/42/44968.png?updated=1460950607" alt="Vampire" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/44975/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Vampire Lord</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/42/44975.png?updated=1460950608" alt="Vampire Lord" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/44966/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Walking Dead</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/42/44966.png?updated=1460950607" alt="Walking Dead" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/44967/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Wight</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/42/44967.png?updated=1460950607" alt="Wight" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/44974/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Wraith</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/42/44974.png?updated=1460950608" alt="Wraith" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/44973/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Zombie</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/42/44973.png?updated=1460950608" alt="Zombie" loading="lazy">
+    </div>
+  </div>
+</a>
+</div>
+<div class="section"><div class="sect-name" title="Rampart Units">Rampart Units</div><span class="sect-collapse"><img src="/images/light/buttons/nav-open.png" alt=""></span>
+<span class="sect-count nomobile">[14]</span>
+</div>
+<div class="updatesheeticons">
+<a href="/pc_computer/heroes3/sheet/42176/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Battle Dwarf</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/39/42176.png?updated=1460950417" alt="Battle Dwarf" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/42168/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Centaur</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/39/42168.png?updated=1460950417" alt="Centaur" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/42175/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Centaur Captain</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/39/42175.png?updated=1460950417" alt="Centaur Captain" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/42172/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Dendroid Guard</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/39/42172.png?updated=1460950417" alt="Dendroid Guard" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/42179/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Dendroid Soldier</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/39/42179.png?updated=1460950418" alt="Dendroid Soldier" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/42169/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Dwarf</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/39/42169.png?updated=1460950417" alt="Dwarf" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/42181/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Gold Dragon</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/39/42181.png?updated=1460950418" alt="Gold Dragon" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/42177/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Grand Elf</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/39/42177.png?updated=1460950417" alt="Grand Elf" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/42174/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Green Dragon</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/39/42174.png?updated=1460950417" alt="Green Dragon" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/42171/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Pegasus</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/39/42171.png?updated=1460950417" alt="Pegasus" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/42178/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Silver Pegasus</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/39/42178.png?updated=1460950418" alt="Silver Pegasus" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/42173/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Unicorn</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/39/42173.png?updated=1460950417" alt="Unicorn" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/42180/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">War Unicorn</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/39/42180.png?updated=1460950418" alt="War Unicorn" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/42170/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Wood Elf</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/39/42170.png?updated=1460950417" alt="Wood Elf" loading="lazy">
+    </div>
+  </div>
+</a>
+</div>
+<div class="section"><div class="sect-name" title="Stronghold Units">Stronghold Units</div><span class="sect-collapse"><img src="/images/light/buttons/nav-open.png" alt=""></span>
+<span class="sect-count nomobile">[14]</span>
+</div>
+<div class="updatesheeticons">
+<a href="/pc_computer/heroes3/sheet/44216/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Ancient Behemoth</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/41/44216.png?updated=1460950558" alt="Ancient Behemoth" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/44209/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Behemoth</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/41/44209.png?updated=1460950558" alt="Behemoth" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/44208/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Cyclops</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/41/44208.png?updated=1460950558" alt="Cyclops" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/44215/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Cyclops King</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/41/44215.png?updated=1460950558" alt="Cyclops King" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/44203/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Goblin</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/41/44203.png?updated=1460950557" alt="Goblin" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/44210/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Hobgoblin</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/41/44210.png?updated=1460950558" alt="Hobgoblin" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/44206/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Ogre</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/41/44206.png?updated=1460950557" alt="Ogre" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/44213/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Ogre Magi</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/41/44213.png?updated=1460950558" alt="Ogre Magi" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/44205/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Orc</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/41/44205.png?updated=1460950557" alt="Orc" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/44212/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Orc Chieftain</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/41/44212.png?updated=1460950558" alt="Orc Chieftain" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/44207/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Roc</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/41/44207.png?updated=1460950557" alt="Roc" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/44214/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Thunderbird</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/41/44214.png?updated=1460950558" alt="Thunderbird" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/44211/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Wolf Raider</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/41/44211.png?updated=1460950558" alt="Wolf Raider" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/44204/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Wolf Rider</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/41/44204.png?updated=1460950557" alt="Wolf Rider" loading="lazy">
+    </div>
+  </div>
+</a>
+</div>
+<div class="section"><div class="sect-name" title="Tower Units">Tower Units</div><span class="sect-collapse"><img src="/images/light/buttons/nav-open.png" alt=""></span>
+<span class="sect-count nomobile">[14]</span>
+</div>
+<div class="updatesheeticons">
+<a href="/pc_computer/heroes3/sheet/42193/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Arch Mage</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/39/42193.png?updated=1460950419" alt="Arch Mage" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/42186/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Genie</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/39/42186.png?updated=1460950418" alt="Genie" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/42188/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Giant</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/39/42188.png?updated=1460950418" alt="Giant" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/42182/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Gremlin</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/39/42182.png?updated=1460950418" alt="Gremlin" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/42192/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Iron Golem</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/39/42192.png?updated=1460950419" alt="Iron Golem" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/42185/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Mage</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/39/42185.png?updated=1460950418" alt="Mage" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/42194/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Master Genie</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/39/42194.png?updated=1460950419" alt="Master Genie" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/42189/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Master Gremlin</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/39/42189.png?updated=1460950418" alt="Master Gremlin" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/42187/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Naga</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/39/42187.png?updated=1460950418" alt="Naga" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/42195/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Naga Queen</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/39/42195.png?updated=1460950419" alt="Naga Queen" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/42190/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Obsidian Gargoyle</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/39/42190.png?updated=1460950419" alt="Obsidian Gargoyle" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/42183/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Stone Gargoyle</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/39/42183.png?updated=1460950418" alt="Stone Gargoyle" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/42184/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Stone Golem</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/39/42184.png?updated=1460950418" alt="Stone Golem" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/42197/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Titan</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/39/42197.png?updated=1460950419" alt="Titan" loading="lazy">
+    </div>
+  </div>
+</a>
+</div>
+<div class="section"><div class="sect-name" title="War Machines">War Machines</div><span class="sect-collapse"><img src="/images/light/buttons/nav-open.png" alt=""></span>
+<span class="sect-count nomobile">[4]</span>
+</div>
+<div class="updatesheeticons">
+<a href="/pc_computer/heroes3/sheet/45029/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Ammo Cart</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/42/45029.png?updated=1460950613" alt="Ammo Cart" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/45027/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Ballista</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/42/45027.png?updated=1460950612" alt="Ballista" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/45026/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Catapult</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/42/45026.png?updated=1460950612" alt="Catapult" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/45028/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">First Aid Tent</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/42/45028.png?updated=1460950612" alt="First Aid Tent" loading="lazy">
+    </div>
+  </div>
+</a>
+</div>
+<div class="section"><div class="sect-name" title="Towns">Towns</div><span class="sect-collapse"><img src="/images/light/buttons/nav-open.png" alt=""></span>
+<span class="sect-count nomobile">[9]</span>
+</div>
+<div class="updatesheeticons">
+<a href="/pc_computer/heroes3/sheet/41315/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Castle Town</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/38/41315.png?updated=1460950360" alt="Castle Town" loading="lazy">
+      <img src="/images/light/misc/zip.png" alt="Zip Archive" class="zip-icon">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/41321/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Conflux Town</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/38/41321.png?updated=1460950361" alt="Conflux Town" loading="lazy">
+      <img src="/images/light/misc/zip.png" alt="Zip Archive" class="zip-icon">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/41322/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Dungeon Town</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/38/41322.png?updated=1460950361" alt="Dungeon Town" loading="lazy">
+      <img src="/images/light/misc/zip.png" alt="Zip Archive" class="zip-icon">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/41325/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Fortress Town</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/38/41325.png?updated=1460950361" alt="Fortress Town" loading="lazy">
+      <img src="/images/light/misc/zip.png" alt="Zip Archive" class="zip-icon">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/41328/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Inferno Town</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/38/41328.png?updated=1460950361" alt="Inferno Town" loading="lazy">
+      <img src="/images/light/misc/zip.png" alt="Zip Archive" class="zip-icon">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/41332/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Necropolis Town</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/38/41332.png?updated=1460950361" alt="Necropolis Town" loading="lazy">
+      <img src="/images/light/misc/zip.png" alt="Zip Archive" class="zip-icon">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/41334/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Rampart Town</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/38/41334.png?updated=1460950362" alt="Rampart Town" loading="lazy">
+      <img src="/images/light/misc/zip.png" alt="Zip Archive" class="zip-icon">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/41337/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Stronghold Town</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/38/41337.png?updated=1460950362" alt="Stronghold Town" loading="lazy">
+      <img src="/images/light/misc/zip.png" alt="Zip Archive" class="zip-icon">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/41341/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Tower Town</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/38/41341.png?updated=1460950362" alt="Tower Town" loading="lazy">
+      <img src="/images/light/misc/zip.png" alt="Zip Archive" class="zip-icon">
+    </div>
+  </div>
+</a>
+</div>
+<div class="section"><div class="sect-name" title="Raw Spritesheets">Raw Spritesheets</div><span class="sect-collapse"><img src="/images/light/buttons/nav-open.png" alt=""></span>
+<span class="sect-count nomobile">[12]</span>
+</div>
+<div class="updatesheeticons">
+<a href="/pc_computer/heroes3/sheet/43137/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Raw Spritesheets (Castle)</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/40/43137.png?updated=1460950484" alt="Raw Spritesheets (Castle)" loading="lazy">
+      <img src="/images/light/misc/zip.png" alt="Zip Archive" class="zip-icon">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/45009/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Raw Spritesheets (Conflux)</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/42/45009.png?updated=1460950611" alt="Raw Spritesheets (Conflux)" loading="lazy">
+      <img src="/images/light/misc/zip.png" alt="Zip Archive" class="zip-icon">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/43584/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Raw Spritesheets (Dungeon)</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/41/43584.png?updated=1460950517" alt="Raw Spritesheets (Dungeon)" loading="lazy">
+      <img src="/images/light/misc/zip.png" alt="Zip Archive" class="zip-icon">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/44994/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Raw Spritesheets (Fortress)</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/42/44994.png?updated=1460950610" alt="Raw Spritesheets (Fortress)" loading="lazy">
+      <img src="/images/light/misc/zip.png" alt="Zip Archive" class="zip-icon">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/43136/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Raw Spritesheets (Heroes)</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/40/43136.png?updated=1460950484" alt="Raw Spritesheets (Heroes)" loading="lazy">
+      <img src="/images/light/misc/zip.png" alt="Zip Archive" class="zip-icon">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/43139/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Raw Spritesheets (Inferno)</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/40/43139.png?updated=1460950484" alt="Raw Spritesheets (Inferno)" loading="lazy">
+      <img src="/images/light/misc/zip.png" alt="Zip Archive" class="zip-icon">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/44979/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Raw Spritesheets (Necropolis)</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/42/44979.png?updated=1460950608" alt="Raw Spritesheets (Necropolis)" loading="lazy">
+      <img src="/images/light/misc/zip.png" alt="Zip Archive" class="zip-icon">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/45025/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Raw Spritesheets (Neutral)</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/42/45025.png?updated=1460950612" alt="Raw Spritesheets (Neutral)" loading="lazy">
+      <img src="/images/light/misc/zip.png" alt="Zip Archive" class="zip-icon">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/43138/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Raw Spritesheets (Rampart)</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/40/43138.png?updated=1460950484" alt="Raw Spritesheets (Rampart)" loading="lazy">
+      <img src="/images/light/misc/zip.png" alt="Zip Archive" class="zip-icon">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/44202/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Raw Spritesheets (Stronghold)</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/41/44202.png?updated=1460950557" alt="Raw Spritesheets (Stronghold)" loading="lazy">
+      <img src="/images/light/misc/zip.png" alt="Zip Archive" class="zip-icon">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/43140/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Raw Spritesheets (Tower)</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/40/43140.png?updated=1460950484" alt="Raw Spritesheets (Tower)" loading="lazy">
+      <img src="/images/light/misc/zip.png" alt="Zip Archive" class="zip-icon">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/45030/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Raw Spritesheets (War Machines)</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/42/45030.png?updated=1460950613" alt="Raw Spritesheets (War Machines)" loading="lazy">
+      <img src="/images/light/misc/zip.png" alt="Zip Archive" class="zip-icon">
+    </div>
+  </div>
+</a>
+</div>
+<div class="section"><div class="sect-name" title="Miscellaneous">Miscellaneous</div><span class="sect-collapse"><img src="/images/light/buttons/nav-open.png" alt=""></span>
+<span class="sect-count nomobile">[19]</span>
+</div>
+<div class="updatesheeticons">
+<a href="/pc_computer/heroes3/sheet/41261/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Artifacts</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/38/41261.png?updated=1460950356" alt="Artifacts" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/41267/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Battle Backgrounds</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/38/41267.png?updated=1460950357" alt="Battle Backgrounds" loading="lazy">
+      <img src="/images/light/misc/zip.png" alt="Zip Archive" class="zip-icon">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/41272/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Creatures Portraits</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/38/41272.png?updated=1460950357" alt="Creatures Portraits" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/41276/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Effects</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/38/41276.png?updated=1460950357" alt="Effects" loading="lazy">
+      <img src="/images/light/misc/zip.png" alt="Zip Archive" class="zip-icon">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/43585/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Landscape</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/41/43585.png?updated=1460950517" alt="Landscape" loading="lazy">
+      <img src="/images/light/misc/zip.png" alt="Zip Archive" class="zip-icon">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/41284/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Luck / Morale</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/38/41284.png?updated=1460950358" alt="Luck / Morale" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/43586/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Map Objects</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/41/43586.png?updated=1460950517" alt="Map Objects" loading="lazy">
+      <img src="/images/light/misc/zip.png" alt="Zip Archive" class="zip-icon">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/41287/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Mines</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/38/41287.png?updated=1460950358" alt="Mines" loading="lazy">
+      <img src="/images/light/misc/zip.png" alt="Zip Archive" class="zip-icon">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/41280/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Mouse Cursors</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/38/41280.png?updated=1460950358" alt="Mouse Cursors" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/41288/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Primary Skills</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/38/41288.png?updated=1460950358" alt="Primary Skills" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/41291/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Puzzle</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/38/41291.png?updated=1460950358" alt="Puzzle" loading="lazy">
+      <img src="/images/light/misc/zip.png" alt="Zip Archive" class="zip-icon">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/41293/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Resources</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/38/41293.png?updated=1460950358" alt="Resources" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/41298/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Secondary Skills</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/38/41298.png?updated=1460950359" alt="Secondary Skills" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/41303/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Siege Backgrounds</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/38/41303.png?updated=1460950359" alt="Siege Backgrounds" loading="lazy">
+      <img src="/images/light/misc/zip.png" alt="Zip Archive" class="zip-icon">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/41306/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Spellbook</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/38/41306.png?updated=1460950359" alt="Spellbook" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/41309/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Spells</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/38/41309.png?updated=1460950360" alt="Spells" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/43587/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Terrains</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/41/43587.png?updated=1460950517" alt="Terrains" loading="lazy">
+      <img src="/images/light/misc/zip.png" alt="Zip Archive" class="zip-icon">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/41312/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Time</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/38/41312.png?updated=1460950360" alt="Time" loading="lazy">
+    </div>
+  </div>
+</a>
+<a href="/pc_computer/heroes3/sheet/43588/" style="text-decoration: none; font-size: 0px;">
+  <div class="iconcontainer">
+    <div class="iconheader">
+      <span class="iconheadertext">Towns and Creature Dwellings</span>
+    </div>
+    <div class="iconbody">
+      <img src="/resources/sheet_icons/41/43588.png?updated=1460950517" alt="Towns and Creature Dwellings" loading="lazy">
+      <img src="/images/light/misc/zip.png" alt="Zip Archive" class="zip-icon">
+    </div>
+  </div>
+</a>
+</div>
+</div>
+<table class="display altrow" style="margin-bottom: 20px;">
+  <tr class="rowheader">
+    <th style="width: 50%;">Console</th>
+    <th style="width: 50%;">Genre</th>
+    <th style="display: none;">Developers</th>
+  </tr>
+  <tr>
+    <td style="vertical-align: top;"><a href="/pc_computer/">PC / Computer</a></td>
+    <td style="vertical-align: top;"><a href="/genre/strategy/">Strategy</a></td>
+    <td style="vertical-align: top; display: none;">Developer coming soon!</td>
+  </tr>
+  <tr class="rowheader" style="display: none;">
+    <th colspan="3" class="noborder">Tags</th>
+  </tr>
+  <tr style="display: none;">
+    <td colspan="3" class="noborder">
+Tagging is in the works and will be here soon!    </td>
+  </tr>
+</table>
+<div class="commentError">You must be <a href="/login/?return=www.spriters-resource.com/pc_computer/heroes3/">logged in</a> with an active forum account to post comments.</div>
+<div id="comments">
+<form id="report-comment-67786-wrapper" method="post" action="/process/report/">
+  <table class="comment" id="comment-67786">
+    <tr>
+      <td class="commentHeader" style="width: 75px;" rowspan="2"><img src="https://www.vg-resource.com/uploads/avatars/avatar_77313.png" alt="Avatar" style="display: block; margin-left: auto; margin-right: auto; max-width: 75px; max-height: 75px; width: auto; height: auto;"></td>
+      <td class="commentHeader" style="height: 20px;">
+        <div style="float: left;"><a href="https://www.vg-resource.com/user-77313.html">Catstorm</a></div>
+        <div style="float: right;">
+        </div>
+        <div style="float: right; font-size: 12px; margin-right: 5px;">Mar 1, 2021, 4:46 PM</div>
+      </td>
+    </tr>
+    <tr>
+      <td class="commentContent">What an absolutely gorgeous and polished art style this game has.</td>
+    </tr>
+    <tr id="report-comment-67786-form" style="display: none;">
+      <td class="commentHeader" colspan="2" style="text-align: center;">
+        <textarea name="report" id="report-comment-67786-text" class="formElement" style="width: calc(100% - 20px); height: 50px;" placeholder="Use this form to report the above comment to the staff for violation of site rules. Reports are not for contacting the staff, replying to the selected comment, or requesting new content."></textarea><br>
+        <input type="hidden" name="type" id="report-comment-67786-type" value="comment">
+        <input type="hidden" name="id" id="report-comment-67786-id" value="67786">
+        <input type="submit" value="Submit">
+      </td>
+    </tr>
+  </table>
+</form>
+</div>
+          <div class="banner">
+<div id="nitro-banner-bottom"></div>
+<script>
+window['nitroAds'].createAd('nitro-banner-bottom', {
+  "refreshLimit": 0,
+  "refreshTime": 30,
+  "renderVisibleOnly": true,
+  "refreshVisibleOnly": true,
+  "delayLoading": true,
+  "report": {
+    "enabled": true,
+    "icon": true,
+    "wording": "Report Ad",
+    "position": "top-right"
+  }
+});
+</script>          </div>
+        </div>
+        <div id="landscape-container"><div id="landscape-only" class="commentError">This page does not work well in portrait mode on mobile. Please rotate your device.</div></div>
+        <div id="shadow" class="nomobile"></div>
+      </div>
+      </div>
+      <div id="footer">
+  <div class="wrap">
+    <div id="footer-inner" class="nomobile">
+      <div id="footer-content">
+        <ul>
+          <li style="font-weight: bold;">Site Network</li>
+          <li><a href="https://www.vg-resource.com" target="_blank">The VG Resource</a></li>
+          <li><a href="https://www.spriters-resource.com" target="_blank">The Spriters Resource</a></li>
+          <li><a href="https://www.models-resource.com" target="_blank">The Models Resource</a></li>
+          <li><a href="https://www.textures-resource.com" target="_blank">The Textures Resource</a></li>
+          <li><a href="https://www.sounds-resource.com" target="_blank">The Sounds Resource</a></li>
+        </ul>
+        <ul>
+          <li style="font-weight: bold;">Popular Games</li>
+                <li><a href="/custom_edited/sonicthehedgehogcustoms/">Sonic the Hedgehog C...</a></li>
+      <li><a href="/custom_edited/mariocustoms/">Mario Customs</a></li>
+      <li><a href="/pc_computer/undertale/">Undertale</a></li>
+      <li><a href="/mobile/fireemblemheroes/">Fire Emblem: Heroes</a></li>
+      <li><a href="/pc_computer/pizzatower/">Pizza Tower</a></li>
+        </ul>
+        <ul>
+          <li style="font-weight: bold;">Affiliates</li>
+          <li><a href="https://spritedatabase.net/" target="_blank">Sprite Database</a></li>
+<li><a href="http://www.sprites-inc.co.uk/" target="_blank">Sprites Inc.</a></li>
+<li><a href="https://retrogamezone.co.uk/" target="_blank">Retro Game Zone</a></li>
+<li><a href="https://mfgg.net/" target="_blank">Mario Fan Games Galaxy</a></li>
+<li><a href="http://www.videogamesprites.net/" target="_blank">Videogame Sprites</a></li>
+        </ul>
+        <ul>
+          <li style="font-weight: bold;">About</li>
+          <li><a href="/page/about/">About</a></li>
+          <li><a href="/contact/">Contact Us</a></li>
+          <li><a href="https://www.vg-resource.com/showteam.php">Staff</a></li>
+          <li><a href="/page/faq/">FAQ</a></li>
+          <li><a href="/page/advertising/">Advertising</a></li>
+        </ul>
+        <ul>
+          <li style="font-weight: bold;">Legal</li>
+          <li>By use of this site, you<br>agree to abide by the<br><a href="/page/agreement/">User Agreement</a>.</li>
+          <li><a href="/page/privacy/">Privacy Policy</a></li>
+          <li><a href="/uploads.php">RSS Feed</a></li>
+        </ul>
+        <div style="clear: both;">&copy; 2003-2024, The VG Resource</div>
+      </div>
+    </div>
+    <div id="footer-inner-mobile">&copy; 2003-2024, The VG Resource</div>
+  </div>
+</div>
+    </div>
+    <div class="button-title" id="edit-title">Revise</div>
+    <div class="button-title" id="report-title">Report</div>
+    <div class="button-title" id="settheme-title">Switch to Dark Theme</div>
+    <div class="button-title" id="setmode-title">Switch to Text Mode</div>
+    <div class="button-title" id="setnsfw-title">Click to show NSFW Content</div>
+    <div class="button-title" id="pending-list-title">Click to toggle list of pending sheets</div>
+    <div class="button-title" id="random-title">Click for a random sheet!</div>
+    <script>
+window['nitroAds'].createAd('icon-display', {
+  "refreshLimit": 0,
+  "refreshTime": 30,
+  "format": "article",
+  "pageInterval": 1,
+  "report": {
+    "enabled": true,
+    "icon": true,
+    "wording": "Report Ad",
+    "position": "top-right"
+  }
+});
+</script>
+<span data-ccpa-link="1"></span>    <script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon="{&quot;token&quot;: &quot;e77134723f444122850e83d97f88bd68&quot;}"></script>
+  </body>
+
+</html>

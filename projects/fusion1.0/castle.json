@@ -1,0 +1,16 @@
+[
+{"name":"Pikeman","id":1,"description":"Immune to jousting","energy":84,"life":140,"health":140,"primaryattack":56,"attack":56,"occ":"melee","state":0,"front":true},
+{"name":"Halberdier","id":2,"description":"Immune to jousting","energy":105,"life":140,"health":140,"primaryattack":84,"attack":84,"occ":"melee","state":0,"front":true},
+{"name":"Archer","id":3,"description":"Ranged (12 shots)","energy":90,"life":90,"health":90,"primaryattack":54,"attack":54,"occ":"range","state":0,"front":true},
+{"name":"Marksman","id":4,"description":"Ranged (24 shots), Double attack","energy":135,"life":90,"health":90,"primaryattack":54,"attack":54,"occ":"range","state":0,"front":true},
+{"name":"Griffin","id":5,"description":"Flying, Two retaliations","energy":140,"life":175,"health":175,"primaryattack":56,"attack":56,"occ":"melee","state":0,"front":true},
+{"name":"Royal Griffin","id":6,"description":"Flying, Unlimited retaliations","energy":168,"life":175,"health":175,"primaryattack":63,"attack":63,"occ":"melee","state":0,"front":true},
+{"name":"Swordsman","id":7,"description":"","energy":120,"life":140,"health":140,"primaryattack":40,"attack":40,"occ":"melee","state":0,"front":true},
+{"name":"Crusader","id":8,"description":"Double attack","energy":160,"life":140,"health":140,"primaryattack":48,"attack":48,"occ":"melee","state":0,"front":true},
+{"name":"Monk","id":9,"description":"Ranged (12 shots)","energy":120,"life":90,"health":90,"primaryattack":36,"attack":36,"occ":"range","state":0,"front":true},
+{"name":"Zealot","id":10,"description":"Ranged (24 shots), No melee penalty","energy":135,"life":90,"health":90,"primaryattack":36,"attack":36,"occ":"range","state":0,"front":true},
+{"name":"Cavalier","id":10,"description":"Jousting","energy":200,"life":200,"health":200,"primaryattack":30,"attack":30,"occ":"melee","state":0,"front":true},
+{"name":"Champion","id":10,"description":"Jousting","energy":240,"life":200,"health":200,"primaryattack":32,"attack":32,"occ":"melee","state":0,"front":true},
+{"name":"Angel","id":10,"description":"Flying, Hates Devils and Arch Devils, Morale +1 to the whole army","energy":300,"life":200,"health":200,"primaryattack":20,"attack":20,"occ":"melee","state":0,"front":true},
+{"name":"Archangel","id":10,"description":"Flying, Hates Devils and Arch Devils, Resurrection, Morale +1 to the whole army","energy":500,"life":250,"health":250,"primaryattack":30,"attack":30,"occ":"melee","state":0,"front":true}
+]

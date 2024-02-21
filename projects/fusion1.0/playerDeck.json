@@ -1,0 +1,41 @@
+[
+    {
+        "id":0,
+        "name":"Peasant",
+        "description":"this is a Peasant",
+        "energy":1,
+        "life":1,
+        "health":1,
+        "primaryattack":1,
+        "attack":1,
+        "occ":"melee",
+        "state":0,
+        "front":true
+    },
+    {
+        "id":1,
+        "name":"Demon",
+        "description":"this is a Peasant",
+        "energy":1,
+        "life":1,
+        "health":1,
+        "primaryattack":1,
+        "attack":1,
+        "occ":"melee",
+        "state":0,
+        "front":true
+    },
+    {
+        "id":2,
+        "name":"Peasant",
+        "description":"this is a Peasant",
+        "energy":1,
+        "life":1,
+        "health":1,
+        "primaryattack":1,
+        "attack":1,
+        "occ":"melee",
+        "state":0,
+        "front":true
+    }
+]
